@@ -1,7 +1,1 @@
-49 8D 8C 24 ? ? ? ? E8 ? ? ? ? 48 BB ? ? ? ? ? ? ? ? 45 38 7C 24 ? 0F 84 ? ? ? ? 8B 05 ? ? ? ? 
-48 8B 88 ? ? ? ? 0F B6 81 ? ? ? ? 38 43 79 76 03 88 43 79 
-
-
-do you want top type your MAC and UUID or it to be randomized?
-
-type the keyword user for your input or rand for a random string THIS IS THE END OF THE PROGRAM DO YOU WANT TO EXIT?
+TESTE
